@@ -1,0 +1,25 @@
+body.fundo{
+    /* background-color: #d4d0c6; */
+    background-image: url("../img/angel_ok.jpg");
+    background-size: 100% auto;   
+    background-repeat: no-repeat; 
+}
+
+.container-imagem {
+    max-width:95%; 
+    max-height: 95%; 
+    margin:0 auto; 
+    padding:10px; 
+}
+/*Texto of Mary*/
+.texto-by-Mary{
+    font-size:18px; 
+    text-align:center; 
+    padding:10px; 
+    color:#fff;
+    margin: 70px auto ;
+    width: 80%;
+    background-color: rgba(212, 179, 149, 0.7);
+    border-radius: 50px;
+}
+

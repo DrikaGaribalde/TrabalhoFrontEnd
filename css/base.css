@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap');
+
+/* Reset */
+* {
+    font-family: 'QuickSand', Courier, monospace, Arial, Helvetica, sans-serif;
+    margin:0; 
+    padding:0; 
+    box-sizing:border-box;   
+}
+/* Geral*/
+.geral{
+    min-height:100%;
+    position:relative;
+}
+
+/* Cabeçalho*/
+.cabecalho {
+    display:flex; 
+    justify-content:flex-start; 
+    background-color: #a58e65; 
+    border-bottom:2px solid #333; 
+}
+.cabecalho .logo img{
+    width: 20%; 
+    margin-left: 10px; 
+    padding: 2px
+}
+/* Menu */
+.menu {
+    margin-top:10px; 
+    margin-left: -150px; 
+}
+.menu ul li {
+    list-style:none; 
+    display:inline-block;
+}
+.menu ul li a {
+    color: #fff; 
+    margin:0 10px; 
+    text-decoration:none; 
+    font-size:17px;
+}
+.menu ul li a:hover {
+    color:#413f3b;
+}
+
+/* Rodapé */
+.rodape {
+    width:100%; 
+    padding: 5px; 
+    background-color: #413f3b; 
+    border-top:2px solid #a58e65; 
+    text-align:center; 
+    clear:both; 
+    position: absolute; 
+    margin-bottom: 0px;
+}
+.rodape .creditos {
+    color:#fff;
+    padding: 2px;
+}

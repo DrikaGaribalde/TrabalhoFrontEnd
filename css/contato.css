@@ -1,0 +1,13 @@
+.container {  
+    margin-bottom: 15px;
+}
+.container-imagem{
+    width: 50%;
+    margin: 0 auto;
+}
+.thumbnail{
+    border: none;
+}
+.rodape {
+    margin-top: 83px;
+}

@@ -1,0 +1,31 @@
+body.fundo2{
+    background-color: #d4d0c6; 
+}
+
+.texto-by-Mary2{
+    font-size:18px; 
+    text-align:center; 
+    padding:10px; 
+    color:#fff;
+    margin: 10px auto;
+    width: 80%;
+    background-color: rgba(133, 102, 74, 0.7);
+    border-radius: 50px;
+    margin-bottom: 60px;
+}
+
+.container {
+    margin-left: 135px;
+    width: 85%;
+    margin-bottom: 15px;
+}
+
+.container p{
+    font-size:18px; 
+    text-align:center; 
+    padding:10px; 
+    color:#fff;
+    width: 92%;
+    background-color: rgba(182, 157, 135, 0.7);
+    border-radius: 50px;
+}
